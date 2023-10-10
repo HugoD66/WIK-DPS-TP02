@@ -1,0 +1,36 @@
+
+Recommended fixes for image  single-image:latest 
+
+  Base image is  node:20-bookworm-slim 
+
+  Name            │  20-bookworm-slim                                                          
+  Digest          │  sha256:c704ff2a5e27c3fc990418bf1f6c1b1ac6eb75471a7a2e2f192f401d211d2101   
+  Vulnerabilities │    0C     0H     1M    16L                                                 
+  Pushed          │ 1 week ago                                                                 
+  Size            │ 80 MB                                                                      
+  Packages        │ 372                                                                        
+  Runtime         │ 19                                                                         
+
+                                                                    
+  │ The base image is also available under the supported tag(s) `20- 
+  │ slim`, `20.8-bookworm-slim`, `20.8-slim`, `20.8.0-bookworm-slim`,
+  │ `20.8.0-slim`, `bookworm-slim`, `current-bookworm-slim`, `current-
+  │ slim`, `slim`. If you want to display recommendations           
+  │ specifically for a different tag, please re-run the command using
+  │ the `--tag` flag.                                                
+
+
+
+
+Refresh base image
+  Rebuild the image using a newer base image version. Updating this may result in breaking changes.
+
+  v This image version is up to date.
+
+
+Change base image
+  The list displays new recommended tags in descending order, where the top results are rated as most suitable.
+
+
+  Tag │ Details │ Pushed │ Vulnerabilities  
+──────┼─────────┼────────┼──────────────────

@@ -1,0 +1,6 @@
+
+  Your image  double-image:latest    │    0C     0H     1M    16L   
+  Base image  node:20-bookworm-slim  │    0C     0H     1M    16L   
+
+What's Next?
+  Learn more about vulnerabilities → docker scout cves double-image:latest
