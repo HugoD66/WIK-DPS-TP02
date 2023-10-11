@@ -7,14 +7,14 @@
 <br>
 <code>docker build -t project-name .</code>
 
-
+<br>
 Launch vulnerability's tests using Docker scoot : 
 
     docker scout quickview -o reports/report.txt
     docker scout cves <project-name>:latest -o reports/reportcves.txt
     docker scout recommendations <project-name>:latest -o reports/reportrecommendations.txt
 
-The files are made available within each project.
+Files are available within each project.
 
 <h2> Launch images : </h2>
 <br>
